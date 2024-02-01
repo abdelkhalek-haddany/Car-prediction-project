@@ -1,0 +1,271 @@
+marque,nom,puissance,longueur,nbPlaces,nbPortes,couleur,occasion,prix,Cluster
+Volvo,S80 T6,272,très longue,5,5,blanc,False,50500,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,noir,False,50500,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,rouge,False,50500,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,gris,True,35350,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,bleu,True,35350,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,gris,False,50500,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,bleu,False,50500,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,rouge,True,35350,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,blanc,True,35350,Sport Utility Cars
+Volvo,S80 T6,272,très longue,5,5,noir,True,35350,Sport Utility Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,rouge,False,27340,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,gris,True,19138,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,bleu,True,19138,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,gris,False,27340,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,bleu,False,27340,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,blanc,True,19138,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,noir,True,19138,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,rouge,True,19138,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,blanc,False,27340,Family Cars
+Volkswagen,Touran 2.0 FSI,150,longue,7,5,noir,False,27340,Family Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,True,8540,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,False,12200,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,False,12200,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,True,8540,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,True,8540,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,False,12200,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,True,8540,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,False,12200,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,False,12200,City Cars
+Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,True,8540,City Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,blanc,True,18641,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,noir,True,18641,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,rouge,True,18641,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,gris,True,18641,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,bleu,True,18641,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,rouge,False,26630,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,gris,False,26630,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,bleu,False,26630,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,blanc,False,26630,Sport Utility Cars
+Volkswagen,New Beatle 1.8,110,moyenne,5,5,noir,False,26630,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,True,16029,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,True,16029,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,True,16029,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,True,16029,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,True,16029,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,False,22900,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,False,22900,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,False,22900,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,False,22900,Sport Utility Cars
+Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,False,22900,Sport Utility Cars
+Skoda,Superb 2.8 V6,193,très longue,5,5,rouge,False,31790,Sport Utility Cars
+Skoda,Superb 2.8 V6,193,très longue,5,5,gris,False,31790,Sport Utility Cars
+Skoda,Superb 2.8 V6,193,très longue,5,5,bleu,False,31790,Sport Utility Cars
+Skoda,Superb 2.8 V6,193,très longue,5,5,noir,False,31790,Sport Utility Cars
+Skoda,Superb 2.8 V6,193,très longue,5,5,blanc,False,31790,Sport Utility Cars
+Seat,Toledo 1.6,102,longue,5,5,blanc,False,18880,Sport Utility Cars
+Seat,Toledo 1.6,102,longue,5,5,noir,False,18880,Sport Utility Cars
+Seat,Toledo 1.6,102,longue,5,5,rouge,False,18880,Sport Utility Cars
+Seat,Toledo 1.6,102,longue,5,5,gris,False,18880,Sport Utility Cars
+Seat,Toledo 1.6,102,longue,5,5,bleu,False,18880,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,blanc,True,27020,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,rouge,True,27020,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,gris,True,27020,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,bleu,True,27020,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,noir,True,27020,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,gris,False,38600,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,bleu,False,38600,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,noir,False,38600,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,rouge,False,38600,Sport Utility Cars
+Saab,9.3 1.8T,150,longue,5,5,blanc,False,38600,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,gris,True,34440,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,noir,True,34440,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,bleu,True,34440,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,rouge,True,34440,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,blanc,True,34440,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,gris,False,49200,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,bleu,False,49200,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,blanc,False,49200,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,noir,False,49200,Sport Utility Cars
+Renault,Vel Satis 3.5 V6,245,très longue,5,5,rouge,False,49200,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,gris,True,15644,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,True,15644,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,True,15644,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,True,15644,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,noir,True,15644,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,gris,False,22350,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,False,22350,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,False,22350,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,noir,False,22350,Sport Utility Cars
+Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,False,22350,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,rouge,True,19110,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,gris,True,19110,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,bleu,True,19110,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,blanc,True,19110,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,noir,True,19110,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,gris,False,27300,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,bleu,False,27300,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,rouge,False,27300,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,noir,False,27300,Sport Utility Cars
+Renault,Laguna 2.0T,170,longue,5,5,blanc,False,27300,Sport Utility Cars
+Renault,Espace 2.0T,165,longue,7,5,gris,True,21245,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,bleu,True,21245,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,noir,True,21245,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,rouge,True,21245,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,blanc,True,21245,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,noir,False,30350,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,bleu,False,30350,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,rouge,False,30350,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,blanc,False,30350,Family Cars
+Renault,Espace 2.0T,165,longue,7,5,gris,False,30350,Family Cars
+Peugeot,1007 1.4,75,courte,5,5,rouge,True,9625,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,noir,False,13750,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,gris,False,13750,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,blanc,True,9625,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,rouge,False,13750,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,gris,True,9625,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,blanc,False,13750,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,bleu,True,9625,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,noir,True,9625,Sport Utility Cars
+Peugeot,1007 1.4,75,courte,5,5,bleu,False,13750,Sport Utility Cars
+Nissan,Primera 1.6,109,longue,5,5,noir,False,18650,Sport Utility Cars
+Nissan,Primera 1.6,109,longue,5,5,bleu,False,18650,Sport Utility Cars
+Nissan,Primera 1.6,109,longue,5,5,rouge,False,18650,Sport Utility Cars
+Nissan,Primera 1.6,109,longue,5,5,gris,False,18650,Sport Utility Cars
+Nissan,Primera 1.6,109,longue,5,5,blanc,False,18650,Sport Utility Cars
+Nissan,Maxima 3.0 V6,200,très longue,5,5,noir,False,30000,Sport Utility Cars
+Nissan,Maxima 3.0 V6,200,très longue,5,5,gris,False,30000,Sport Utility Cars
+Nissan,Maxima 3.0 V6,200,très longue,5,5,bleu,False,30000,Sport Utility Cars
+Nissan,Maxima 3.0 V6,200,très longue,5,5,rouge,False,30000,Sport Utility Cars
+Nissan,Maxima 3.0 V6,200,très longue,5,5,blanc,False,30000,Sport Utility Cars
+Nissan,Almera 1.8,115,moyenne,5,5,gris,False,16450,Sport Utility Cars
+Nissan,Almera 1.8,115,moyenne,5,5,bleu,False,16450,Sport Utility Cars
+Nissan,Almera 1.8,115,moyenne,5,5,noir,False,16450,Sport Utility Cars
+Nissan,Almera 1.8,115,moyenne,5,5,rouge,False,16450,Sport Utility Cars
+Nissan,Almera 1.8,115,moyenne,5,5,blanc,False,16450,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,gris,True,12740,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,bleu,True,12740,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,rouge,True,12740,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,noir,True,12740,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,blanc,True,12740,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,gris,False,18200,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,bleu,False,18200,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,rouge,False,18200,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,noir,False,18200,Sport Utility Cars
+Mini,Copper 1.6 16V,115,courte,5,5,blanc,False,18200,Sport Utility Cars
+Mercedes,S500,306,très longue,5,5,noir,True,70910,Luxury Cars
+Mercedes,S500,306,très longue,5,5,bleu,True,70910,Luxury Cars
+Mercedes,S500,306,très longue,5,5,rouge,True,70910,Luxury Cars
+Mercedes,S500,306,très longue,5,5,blanc,True,70910,Luxury Cars
+Mercedes,S500,306,très longue,5,5,bleu,False,101300,Luxury Cars
+Mercedes,S500,306,très longue,5,5,gris,True,70910,Luxury Cars
+Mercedes,S500,306,très longue,5,5,noir,False,101300,Luxury Cars
+Mercedes,S500,306,très longue,5,5,blanc,False,101300,Luxury Cars
+Mercedes,S500,306,très longue,5,5,rouge,False,101300,Luxury Cars
+Mercedes,S500,306,très longue,5,5,gris,False,101300,Luxury Cars
+Mercedes,A200,136,moyenne,5,5,blanc,False,25900,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,noir,False,25900,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,blanc,True,18130,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,rouge,True,18130,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,noir,True,18130,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,rouge,False,25900,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,bleu,True,18130,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,gris,True,18130,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,gris,False,25900,Sport Utility Cars
+Mercedes,A200,136,moyenne,5,5,bleu,False,25900,Sport Utility Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,rouge,False,13500,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,bleu,True,9450,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,gris,False,13500,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,bleu,False,13500,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,noir,False,13500,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,rouge,True,9450,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,gris,True,9450,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,blanc,False,13500,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,blanc,True,9450,City Cars
+Lancia,Ypsilon 1.4 16V,90,courte,5,3,noir,True,9450,City Cars
+Kia,Picanto 1.1,65,courte,5,5,blanc,False,8990,Sport Utility Cars
+Kia,Picanto 1.1,65,courte,5,5,gris,False,8990,Sport Utility Cars
+Kia,Picanto 1.1,65,courte,5,5,noir,False,8990,Sport Utility Cars
+Kia,Picanto 1.1,65,courte,5,5,rouge,False,8990,Sport Utility Cars
+Kia,Picanto 1.1,65,courte,5,5,bleu,False,8990,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,False,37100,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,True,25970,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,True,25970,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,False,37100,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,True,25970,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,True,25970,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,True,25970,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,False,37100,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,False,37100,Sport Utility Cars
+Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,False,37100,Sport Utility Cars
+Hyundaï,Matrix 1.6,103,longue,7,5,bleu,False,15960,Family Cars
+Hyundaï,Matrix 1.6,103,longue,7,5,blanc,False,15960,Family Cars
+Hyundaï,Matrix 1.6,103,longue,7,5,gris,False,15960,Family Cars
+Hyundaï,Matrix 1.6,103,longue,7,5,noir,False,15960,Family Cars
+Hyundaï,Matrix 1.6,103,longue,7,5,rouge,False,15960,Family Cars
+Honda,FR-V 1.7,125,longue,7,5,noir,False,19550,Family Cars
+Honda,FR-V 1.7,125,longue,7,5,bleu,False,19550,Family Cars
+Honda,FR-V 1.7,125,longue,7,5,gris,False,19550,Family Cars
+Honda,FR-V 1.7,125,longue,7,5,blanc,False,19550,Family Cars
+Honda,FR-V 1.7,125,longue,7,5,rouge,False,19550,Family Cars
+Ford,Mondeo 1.8,125,longue,5,5,blanc,True,16730,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,gris,True,16730,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,bleu,True,16730,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,noir,True,16730,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,rouge,True,16730,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,bleu,False,23900,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,blanc,False,23900,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,noir,False,23900,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,gris,False,23900,Sport Utility Cars
+Ford,Mondeo 1.8,125,longue,5,5,rouge,False,23900,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,blanc,True,17346,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,bleu,True,17346,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,rouge,True,17346,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,gris,True,17346,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,rouge,False,24780,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,bleu,False,24780,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,noir,True,17346,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,blanc,False,24780,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,noir,False,24780,Sport Utility Cars
+Fiat,Croma 2.2,147,longue,5,5,gris,False,24780,Sport Utility Cars
+Daihatsu,Cuore 1.0,58,courte,5,3,noir,False,8850,City Cars
+Daihatsu,Cuore 1.0,58,courte,5,3,blanc,False,8850,City Cars
+Daihatsu,Cuore 1.0,58,courte,5,3,rouge,False,8850,City Cars
+Daihatsu,Cuore 1.0,58,courte,5,3,bleu,False,8850,City Cars
+Daihatsu,Cuore 1.0,58,courte,5,3,gris,False,8850,City Cars
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,False,7500,Sport Utility Cars
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,rouge,False,7500,Sport Utility Cars
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,noir,False,7500,Sport Utility Cars
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,gris,False,7500,Sport Utility Cars
+Dacia,Logan 1.6 MPI,90,moyenne,5,5,bleu,False,7500,Sport Utility Cars
+BMW,M5,507,très longue,5,5,bleu,True,66360,Luxury Cars
+BMW,M5,507,très longue,5,5,gris,False,94800,Luxury Cars
+BMW,M5,507,très longue,5,5,blanc,False,94800,Luxury Cars
+BMW,M5,507,très longue,5,5,noir,False,94800,Luxury Cars
+BMW,M5,507,très longue,5,5,rouge,True,66360,Luxury Cars
+BMW,M5,507,très longue,5,5,blanc,True,66360,Luxury Cars
+BMW,M5,507,très longue,5,5,bleu,False,94800,Luxury Cars
+BMW,M5,507,très longue,5,5,gris,True,66360,Luxury Cars
+BMW,M5,507,très longue,5,5,rouge,False,94800,Luxury Cars
+BMW,M5,507,très longue,5,5,noir,True,66360,Luxury Cars
+BMW,120i,150,moyenne,5,5,rouge,True,25060,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,bleu,False,35800,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,blanc,False,35800,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,gris,False,35800,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,rouge,False,35800,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,bleu,True,25060,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,gris,True,25060,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,noir,True,25060,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,blanc,True,25060,Sport Utility Cars
+BMW,120i,150,moyenne,5,5,noir,False,35800,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,noir,True,19950,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,noir,False,28500,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,rouge,False,28500,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,gris,True,19950,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,blanc,False,28500,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,blanc,True,19950,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,bleu,True,19950,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,bleu,False,28500,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,gris,False,28500,Sport Utility Cars
+Audi,A3 2.0 FSI,150,moyenne,5,5,rouge,True,19950,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,noir,True,12817,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,bleu,False,18310,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,gris,False,18310,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,bleu,True,12817,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,gris,True,12817,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,noir,False,18310,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,rouge,False,18310,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,blanc,True,12817,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,rouge,True,12817,Sport Utility Cars
+Audi,A2 1.4,75,courte,5,5,blanc,False,18310,Sport Utility Cars
